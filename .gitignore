@@ -1,0 +1,14 @@
+# Node
+node_modules/
+dist/
+.vite/
+.env
+.DS_Store
+package-lock.json
+
+# Vite
+*.local
+*.log
+
+# Misc
+*.tmp
