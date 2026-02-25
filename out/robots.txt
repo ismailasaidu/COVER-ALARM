@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /shop
+Allow: /about
+Allow: /contact
+Allow: /faq
+Allow: /support
+Allow: /product
+
+Sitemap: https://example.com/sitemap.xml
